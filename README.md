@@ -1,3 +1,5 @@
-Basic C++ codes for fun and learning 
+Random but Important codes of C++
 <br>
-I will add more codes in future , currently in learning stage.
+I will upload new code everyday until this code library reached of 50 total codes.
+<br>
+Thank You_
